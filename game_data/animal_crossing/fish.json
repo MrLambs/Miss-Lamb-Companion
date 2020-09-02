@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "Bitterling",
+    "shadow_size": "Small",
+    "sell_price": "900",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: Nov ~ Mar",
+      "south_hemi": "S: May ~ Sept"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_1_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16903"
+  },
+  {
+    "name": "Pale chub",
+    "shadow_size": "Very Small",
+    "sell_price": "200",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "Afternoon",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_2_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16904"
+  },
+  {
+    "name": "Crucian carp",
+    "shadow_size": "Small",
+    "sell_price": "160",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_3_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16905"
+  },
+  {
+    "name": "Dace",
+    "shadow_size": "Medium",
+    "sell_price": "240",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_4_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16906"
+  },
+  {
+    "name": "Soft-shelled turtle",
+    "shadow_size": "Large",
+    "sell_price": "3750",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Aug ~ Sept",
+      "south_hemi": "S: Feb ~ Mar"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_12_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16911"
+  },
+  {
+    "name": "Snapping turtle",
+    "shadow_size": "Large",
+    "sell_price": "5000",
+    "location": "River",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Oct",
+      "south_hemi": "S: Oct ~ Apr"
+    },
+    "time": "Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_13_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17061"
+  },
+  {
+    "name": "Freshwater goby",
+    "shadow_size": "Small",
+    "sell_price": "400",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_16_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16988"
+  },
+  {
+    "name": "Loach",
+    "shadow_size": "Small",
+    "sell_price": "400",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: Mar ~ May",
+      "south_hemi": "S: Sept ~ Nov"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_17_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16913"
+  },
+  {
+    "name": "Bluegill",
+    "shadow_size": "Small",
+    "sell_price": "180",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "Afternoon",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_20_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16914"
+  },
+  {
+    "name": "Yellow perch",
+    "shadow_size": "Medium",
+    "sell_price": "300",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: Oct ~ Mar",
+      "south_hemi": "S: Apr ~ Sept"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_21_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16915"
+  },
+  {
+    "name": "Black bass",
+    "shadow_size": "Large",
+    "sell_price": "400",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_22_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16916"
+  },
+  {
+    "name": "Tilapia",
+    "shadow_size": "Medium",
+    "sell_price": "800",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: June ~ Oct",
+      "south_hemi": "S: Dec ~ Apr"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_23_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16917"
+  },
+  {
+    "name": "Pike",
+    "shadow_size": "Large",
+    "sell_price": "1800",
+    "location": "River",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Sept ~ Dec",
+      "south_hemi": "S: Mar ~ June"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_24_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16918"
+  },
+  {
+    "name": "Pond smelt",
+    "shadow_size": "Very Small",
+    "sell_price": "400",
+    "location": "River",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: Dec ~ Feb",
+      "south_hemi": "S: June ~ Aug"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_25_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16919"
+  },
+  {
+    "name": "Sweetfish",
+    "shadow_size": "Medium",
+    "sell_price": "900",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: July ~ Sept",
+      "south_hemi": "S: Jan ~ Mar"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_26_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16920"
+  },
+  {
+    "name": "Mitten crab",
+    "shadow_size": "Small",
+    "sell_price": "2000",
+    "location": "River",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Sept ~ Oct",
+      "south_hemi": "S: Mar ~ May"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_33_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17069"
+  },
+  {
+    "name": "Guppy",
+    "shadow_size": "Very Small",
+    "sell_price": "1300",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Nov",
+      "south_hemi": "S: Oct ~ May"
+    },
+    "time": "9am ~ 4pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_34_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16923"
+  },
+  {
+    "name": "Nibble fish",
+    "shadow_size": "Very Small",
+    "sell_price": "1500",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: May ~ Sept",
+      "south_hemi": "S: Nov ~ Mar"
+    },
+    "time": "9am ~ 4pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_35_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17070"
+  },
+  {
+    "name": "Angelfish",
+    "shadow_size": "Small",
+    "sell_price": "3000",
+    "location": "River",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: May ~ Oct",
+      "south_hemi": "S: Nov ~ Apr"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_36_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17071"
+  },
+  {
+    "name": "Betta",
+    "shadow_size": "Small",
+    "sell_price": "2500",
+    "location": "River",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: May ~ Oct",
+      "south_hemi": "S: Nov ~ Apr"
+    },
+    "time": "9am ~ 4pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_37_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17072"
+  },
+  {
+    "name": "Neon tetra",
+    "shadow_size": "Very Small",
+    "sell_price": "500",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Nov",
+      "south_hemi": "S: Oct ~ Apr"
+    },
+    "time": "9am ~ 4pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_38_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17073"
+  },
+  {
+    "name": "Rainbowfish",
+    "shadow_size": "Very Small",
+    "sell_price": "800",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: May ~ Oct",
+      "south_hemi": "S: Nov ~ Apr"
+    },
+    "time": "Afternoon",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_39_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16924"
+  },
+  {
+    "name": "Piranha",
+    "shadow_size": "Small",
+    "sell_price": "2500",
+    "location": "River",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Afternoon, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_40_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17074"
+  },
+  {
+    "name": "Arowana",
+    "shadow_size": "Large",
+    "sell_price": "10000",
+    "location": "River",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_41_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17075"
+  },
+  {
+    "name": "Dorado",
+    "shadow_size": "Large",
+    "sell_price": "15000",
+    "location": "River",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "4am ~ 9pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_42_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17076"
+  },
+  {
+    "name": "Arapaima",
+    "shadow_size": "Huge",
+    "sell_price": "10000",
+    "location": "River",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_44_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17078"
+  },
+  {
+    "name": "Saddled bichir",
+    "shadow_size": "Large",
+    "sell_price": "4000",
+    "location": "River",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_45_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17079"
+  },
+  {
+    "name": "Sea butterfly",
+    "shadow_size": "Very Small",
+    "sell_price": "1000",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Dec ~ Mar",
+      "south_hemi": "S: Jun ~ Sept"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_47_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16925"
+  },
+  {
+    "name": "Sea horse",
+    "shadow_size": "Very Small",
+    "sell_price": "1100",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Nov",
+      "south_hemi": "S: Oct ~ May"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_48_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17081"
+  },
+  {
+    "name": "Clown fish",
+    "shadow_size": "Very Small",
+    "sell_price": "650",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Sept",
+      "south_hemi": "S: Oct ~ May"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_49_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17082"
+  },
+  {
+    "name": "Surgeonfish",
+    "shadow_size": "Small",
+    "sell_price": "1000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Sept",
+      "south_hemi": "S: Oct ~ May"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_50_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16926"
+  },
+  {
+    "name": "Butterfly Fish",
+    "shadow_size": "Small",
+    "sell_price": "1000",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Sept",
+      "south_hemi": "S: Oct ~ May"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_51_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17083"
+  },
+  {
+    "name": "Napoleonfish",
+    "shadow_size": "Huge",
+    "sell_price": "10000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: July ~ Aug",
+      "south_hemi": "S: Jan ~ Feb"
+    },
+    "time": "4am ~ 9pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_52_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17084"
+  },
+  {
+    "name": "Zebra turkeyfish",
+    "shadow_size": "Medium",
+    "sell_price": "500",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Nov",
+      "south_hemi": "S: Oct ~ May"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_53_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16927"
+  },
+  {
+    "name": "Blowfish",
+    "shadow_size": "Medium",
+    "sell_price": "5000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Nov ~ Feb",
+      "south_hemi": "S: May ~ Sep"
+    },
+    "time": "9pm ~ 4am",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_54_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17085"
+  },
+  {
+    "name": "Puffer fish",
+    "shadow_size": "Medium",
+    "sell_price": "250",
+    "location": "Sea",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: July ~ Sept",
+      "south_hemi": "S: Jan ~ Mar"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_55_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17086"
+  },
+  {
+    "name": "Anchovy",
+    "shadow_size": "Small",
+    "sell_price": "200",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "Morning, Afternoon, Evening",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_56_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16928"
+  },
+  {
+    "name": "Horse mackerel",
+    "shadow_size": "Small",
+    "sell_price": "150",
+    "location": "Sea",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_57_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16929"
+  },
+  {
+    "name": "Barred knifejaw",
+    "shadow_size": "Medium",
+    "sell_price": "5000",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Mar ~ Nov",
+      "south_hemi": "S: Sept ~ May"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_58_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16930"
+  },
+  {
+    "name": "Sea bass",
+    "shadow_size": "Large",
+    "sell_price": "400",
+    "location": "Sea",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_59_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16931"
+  },
+  {
+    "name": "Red Snapper",
+    "shadow_size": "Large",
+    "sell_price": "3000",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_60_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16932"
+  },
+  {
+    "name": "Dab",
+    "shadow_size": "Medium",
+    "sell_price": "300",
+    "location": "Sea",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: Oct ~ Apr",
+      "south_hemi": "S: Apr ~ Oct"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_61_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16933"
+  },
+  {
+    "name": "Olive flounder",
+    "shadow_size": "Large",
+    "sell_price": "800",
+    "location": "Sea",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_62_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16934"
+  },
+  {
+    "name": "Squid",
+    "shadow_size": "Medium",
+    "sell_price": "500",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Dec ~ Aug",
+      "south_hemi": "S: June ~ Feb"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_63_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16935"
+  },
+  {
+    "name": "Moray eel",
+    "shadow_size": "Long & Thin",
+    "sell_price": "2000",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Aug ~ Oct",
+      "south_hemi": "S: Feb ~ Apr"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_64_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16936"
+  },
+  {
+    "name": "Ribbon eel",
+    "shadow_size": "Long & Thin",
+    "sell_price": "600",
+    "location": "Sea",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: June ~ Oct",
+      "south_hemi": "S: Dec ~ Apr"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_65_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16937"
+  },
+  {
+    "name": "Ocean sunfish",
+    "shadow_size": "Finned",
+    "sell_price": "4000",
+    "location": "Sea",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: July ~ Sept",
+      "south_hemi": "S: Jan ~ Mar"
+    },
+    "time": "Morning, Afternoon, Evening",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_70_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17091"
+  },
+  {
+    "name": "Ray",
+    "shadow_size": "Large",
+    "sell_price": "3000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Aug ~ Nov",
+      "south_hemi": "S: Feb ~ May"
+    },
+    "time": "4am ~ 9pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_71_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17092"
+  },
+  {
+    "name": "Saw Shark",
+    "shadow_size": "Finned",
+    "sell_price": "12000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_72_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16938"
+  },
+  {
+    "name": "Hammerhead shark",
+    "shadow_size": "Finned",
+    "sell_price": "8000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_73_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16939"
+  },
+  {
+    "name": "Great white shark",
+    "shadow_size": "Finned",
+    "sell_price": "15000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_74_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17093"
+  },
+  {
+    "name": "Whale shark",
+    "shadow_size": "Finned",
+    "sell_price": "13000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_75_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17094"
+  },
+  {
+    "name": "Suckerfish",
+    "shadow_size": "Finned",
+    "sell_price": "1500",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_76_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17095"
+  },
+  {
+    "name": "Football fish",
+    "shadow_size": "Large",
+    "sell_price": "2500",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Nov ~ Mar",
+      "south_hemi": "S: May ~ Sept"
+    },
+    "time": "4pm - 9am",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_77_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16940"
+  },
+  {
+    "name": "Oarfish",
+    "shadow_size": "Huge",
+    "sell_price": "9000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Dec ~ May",
+      "south_hemi": "S: June ~ Nov"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_78_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16941"
+  },
+  {
+    "name": "Barreleye",
+    "shadow_size": "Small",
+    "sell_price": "15000",
+    "location": "Sea",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "9pm ~ 4am",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_79_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17096"
+  },
+  {
+    "name": "Coelacanth",
+    "shadow_size": "Huge",
+    "sell_price": "15000",
+    "location": "Sea",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_80_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17097"
+  },
+  {
+    "name": "Carp",
+    "shadow_size": "Large",
+    "sell_price": "300",
+    "location": "Pond",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_5_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16907"
+  },
+  {
+    "name": "Koi",
+    "shadow_size": "Large",
+    "sell_price": "4000",
+    "location": "Pond",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_6_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16908"
+  },
+  {
+    "name": "Goldfish",
+    "shadow_size": "Very Small",
+    "sell_price": "1300",
+    "location": "Pond",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_7_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16909"
+  },
+  {
+    "name": "Pop-eyed goldfish",
+    "shadow_size": "Very Small",
+    "sell_price": "1300",
+    "location": "Pond",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "Afternoon",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_8_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17058"
+  },
+  {
+    "name": "Ranchu goldfish",
+    "shadow_size": "Small",
+    "sell_price": "4500",
+    "location": "Pond",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: All Year",
+      "south_hemi": "S: All Year"
+    },
+    "time": "9am ~ 4pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_9_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17059"
+  },
+  {
+    "name": "Killifish",
+    "shadow_size": "Very Small",
+    "sell_price": "300",
+    "location": "Pond",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Aug",
+      "south_hemi": "S: Dec ~ Feb"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_10_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17060"
+  },
+  {
+    "name": "Crawfish",
+    "shadow_size": "Small",
+    "sell_price": "200",
+    "location": "Pond",
+    "rarity": "Very Common",
+    "seasons": {
+      "north_hemi": "N: Apr ~ Sept",
+      "south_hemi": "S: Oct ~ Mar"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_11_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16910"
+  },
+  {
+    "name": "Tadpole",
+    "shadow_size": "Very Small",
+    "sell_price": "100",
+    "location": "Pond",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Mar ~ July",
+      "south_hemi": "S: Sept ~ Jan"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_14_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16912"
+  },
+  {
+    "name": "Frog",
+    "shadow_size": "Small",
+    "sell_price": "120",
+    "location": "Pond",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: May ~ Aug",
+      "south_hemi": "S: Nov ~ Feb"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_15_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17062"
+  },
+  {
+    "name": "Catfish",
+    "shadow_size": "Large",
+    "sell_price": "800",
+    "location": "Pond",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: May ~ Oct",
+      "south_hemi": "S: Nov ~ Apr"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_18_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17063"
+  },
+  {
+    "name": "Giant snakehead",
+    "shadow_size": "Large",
+    "sell_price": "5500",
+    "location": "Pond",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: June ~ Aug",
+      "south_hemi": "S: Dec ~ Feb"
+    },
+    "time": "9am ~ 4pm",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_19_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17064"
+  },
+  {
+    "name": "Gar",
+    "shadow_size": "Huge",
+    "sell_price": "6000",
+    "location": "Pond",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: June ~ Sept",
+      "south_hemi": "S: Dec ~ Mar"
+    },
+    "time": "Morning, Evening, Night",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_43_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17077"
+  },
+  {
+    "name": "Salmon",
+    "shadow_size": "Large",
+    "sell_price": "700",
+    "location": "River(Mouth)",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Sept",
+      "south_hemi": "S: Mar"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_31_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16921"
+  },
+  {
+    "name": "King salmon",
+    "shadow_size": "Large",
+    "sell_price": "1800",
+    "location": "River(Mouth)",
+    "rarity": "Common",
+    "seasons": {
+      "north_hemi": "N: Sept",
+      "south_hemi": "S: Mar"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_32_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16922"
+  },
+  {
+    "name": "Sturgeon",
+    "shadow_size": "Huge",
+    "sell_price": "10000",
+    "location": "River(Mouth)",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Sept ~ Mar",
+      "south_hemi": "S: Mar ~ Sept"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_46_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17080"
+  },
+  {
+    "name": "Cherry salmon",
+    "shadow_size": "Medium",
+    "sell_price": "1000",
+    "location": "River(Clifftop)",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Mar ~ June, Sept ~ Nov",
+      "south_hemi": "S: Sept ~ May"
+    },
+    "time": "4pm ~ 9am",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_27_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17065"
+  },
+  {
+    "name": "Char",
+    "shadow_size": "Medium",
+    "sell_price": "3800",
+    "location": "River(Clifftop)",
+    "rarity": "Uncommon",
+    "seasons": {
+      "north_hemi": "N: Mar ~ June, Sept ~ Nov",
+      "south_hemi": "S: Sept ~ May"
+    },
+    "time": "4pm ~ 9am",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_28_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17066"
+  },
+  {
+    "name": "Golden trout",
+    "shadow_size": "Medium",
+    "sell_price": "15000",
+    "location": "River(Clifftop)",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: Mar ~ May, Sept ~ Nov",
+      "south_hemi": "S: Sept ~ May"
+    },
+    "time": "4pm ~ 9am",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_29_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17067"
+  },
+  {
+    "name": "String fish",
+    "shadow_size": "Huge",
+    "sell_price": "15000",
+    "location": "River(Clifftop)",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: Dec ~ Mar",
+      "south_hemi": "S: June ~ Sept"
+    },
+    "time": "4pm ~ 9am",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_30_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17068"
+  },
+  {
+    "name": "Tuna",
+    "shadow_size": "Huge",
+    "sell_price": "7000",
+    "location": "Pier",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: Jan ~ Apr",
+      "south_hemi": "S: May ~ Nov"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_66_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17087"
+  },
+  {
+    "name": "Blue marlin",
+    "shadow_size": "Huge",
+    "sell_price": "10000",
+    "location": "Pier",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: Jan ~ Apr, July ~ Sept, Nov ~ Dec",
+      "south_hemi": "S: Jan ~ Mar, May ~ Oct"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_67_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17088"
+  },
+  {
+    "name": "Giant trevally",
+    "shadow_size": "Large",
+    "sell_price": "4500",
+    "location": "Pier",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: May ~ Oct",
+      "south_hemi": "S: Nov ~ Apr"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_68_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17089"
+  },
+  {
+    "name": "Mahi-mahi",
+    "shadow_size": "Huge",
+    "sell_price": "12000",
+    "location": "Pier",
+    "rarity": "Rare",
+    "seasons": {
+      "north_hemi": "N: May ~ Oct",
+      "south_hemi": "S: Nov ~ Apr"
+    },
+    "time": "All day",
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/sakana_69_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17090"
+  }
+]

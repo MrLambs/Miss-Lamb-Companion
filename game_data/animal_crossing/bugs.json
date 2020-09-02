@@ -1,0 +1,882 @@
+[
+  {
+    "name": "Common butterfly",
+    "sell_price": "160",
+    "time": "4am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Sept ~ June",
+      "south_hemi": "S：Mar ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_1_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16942"
+  },
+  {
+    "name": "Yellow butterfly",
+    "sell_price": "160",
+    "time": "4am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Mar ~ June, Sept, Oct",
+      "south_hemi": "S：Mar ~ Apr, Sept ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_2_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16943"
+  },
+  {
+    "name": "Tiger butterfly",
+    "sell_price": "240",
+    "time": "4am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Mar ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Sept ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_3_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16944"
+  },
+  {
+    "name": "Peacock butterfly",
+    "sell_price": "2500",
+    "time": "4am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Mar ~ June",
+      "south_hemi": "S：Sept ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_4_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17020"
+  },
+  {
+    "name": "Common bluebottle",
+    "sell_price": "300",
+    "time": "4am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Aug",
+      "south_hemi": "S：Oct - Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_5_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16945"
+  },
+  {
+    "name": "Paper kite butterfly",
+    "sell_price": "1000",
+    "time": "8am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_6_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16946"
+  },
+  {
+    "name": "Great purple emperor",
+    "sell_price": "3000",
+    "time": "4am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：May ~ Aug",
+      "south_hemi": "S：Nov ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_7_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17021"
+  },
+  {
+    "name": "Monarch butterfly",
+    "sell_price": "140",
+    "time": "4am - 5pm",
+    "seasons": {
+      "north_hemi": "N：Sept ~ Nov",
+      "south_hemi": "S：Mar ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_8_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16947"
+  },
+  {
+    "name": "Emperor butterfly",
+    "sell_price": "4000",
+    "time": "7pm  ~  8am",
+    "seasons": {
+      "north_hemi": "N：Dec ~ Mar, June ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, June ~ Sept, Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_9_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16948"
+  },
+  {
+    "name": "Agrias butterfly",
+    "sell_price": "3000",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Sept",
+      "south_hemi": "S：Oct ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_10_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17022"
+  },
+  {
+    "name": "Rajah brooke's birdwing",
+    "sell_price": "2500",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Dec ~ Feb, Apr ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, June ~ Aug, Oct ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_11_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16949"
+  },
+  {
+    "name": "Queen Alexandra's birdwing",
+    "sell_price": "4000",
+    "time": "8am ~ 4pm",
+    "seasons": {
+      "north_hemi": "N：May ~ Sept",
+      "south_hemi": "S：Nov ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_12_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17023"
+  },
+  {
+    "name": "Madagascan sunset moth",
+    "sell_price": "2500",
+    "time": "8am ~ 4pm",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Oct ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_15_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16952"
+  },
+  {
+    "name": "Red dragonfly",
+    "sell_price": "180",
+    "time": "8am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Sept ~ Oct",
+      "south_hemi": "S：Mar ~ Apr"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_32_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16961"
+  },
+  {
+    "name": "Darner dragonfly",
+    "sell_price": "230",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Oct",
+      "south_hemi": "S：Jan ~ Apr, Oct ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_33_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16962"
+  },
+  {
+    "name": "Banded dragonfly",
+    "sell_price": "4500",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：May ~ Oct",
+      "south_hemi": "S：Nov ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_34_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16963"
+  },
+  {
+    "name": "Damselfly",
+    "sell_price": "500",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：Nov ~ Feb",
+      "south_hemi": "S：May ~ Aug"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_35_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16964"
+  },
+  {
+    "name": "Firefly",
+    "sell_price": "300",
+    "time": "7pm ~ 4am",
+    "seasons": {
+      "north_hemi": "N：June",
+      "south_hemi": "S：Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_36_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17032"
+  },
+  {
+    "name": "Fly",
+    "sell_price": "60",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_72_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17054"
+  },
+  {
+    "name": "Mosquito",
+    "sell_price": "130",
+    "time": "5pm ~ 4am",
+    "seasons": {
+      "north_hemi": "N：June ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_73_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16979"
+  },
+  {
+    "name": "Atlas moth",
+    "sell_price": "3000",
+    "time": "7pm ~ 4am",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Oct ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_14_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16951"
+  },
+  {
+    "name": "Brown cicada",
+    "sell_price": "250",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_26_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17027"
+  },
+  {
+    "name": "Robust cicada",
+    "sell_price": "300",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_27_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17028"
+  },
+  {
+    "name": "Giant cicada",
+    "sell_price": "500",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_28_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17029"
+  },
+  {
+    "name": "Walker cicada",
+    "sell_price": "400",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Aug ~ Sept",
+      "south_hemi": "S：Feb ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_29_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16960"
+  },
+  {
+    "name": "Evening cicada",
+    "sell_price": "550",
+    "time": "4am ~ 8am, 4pm ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_30_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17030"
+  },
+  {
+    "name": "Cicada shell",
+    "sell_price": "10",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_31_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17031"
+  },
+  {
+    "name": "Scarab beetle",
+    "sell_price": "10000",
+    "time": "11pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_52_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17039"
+  },
+  {
+    "name": "Drone beetle",
+    "sell_price": "200",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：June ~ Aug",
+      "south_hemi": "S：Dec ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_53_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17040"
+  },
+  {
+    "name": "Saw stag",
+    "sell_price": "2000",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_55_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17042"
+  },
+  {
+    "name": "Miyama stag",
+    "sell_price": "1000",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_56_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17043"
+  },
+  {
+    "name": "Giant stag",
+    "sell_price": "10000",
+    "time": "11pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_57_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17044"
+  },
+  {
+    "name": "Rainbow stag",
+    "sell_price": "6000",
+    "time": "7pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：June ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_58_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16974"
+  },
+  {
+    "name": "Horned dynastid",
+    "sell_price": "1350",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_62_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17048"
+  },
+  {
+    "name": "Walking stick",
+    "sell_price": "600",
+    "time": "4am ~ 8am, 5pm ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：July ~ Nov",
+      "south_hemi": "S：Jan ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_66_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17052"
+  },
+  {
+    "name": "Long locust",
+    "sell_price": "200",
+    "time": "8am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Nov",
+      "south_hemi": "S：Jan ~ May, Oct ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_16_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16953"
+  },
+  {
+    "name": "Migratory Locust",
+    "sell_price": "600",
+    "time": "8am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Aug ~ Nov",
+      "south_hemi": "S：Feb ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_17_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17024"
+  },
+  {
+    "name": "Rice grasshopper",
+    "sell_price": "400",
+    "time": "8am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：Aug ~ Nov",
+      "south_hemi": "S：Feb ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_18_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16954"
+  },
+  {
+    "name": "Grasshopper",
+    "sell_price": "160",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：July ~ Sept",
+      "south_hemi": "S：Jan ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_19_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16955"
+  },
+  {
+    "name": "Cricket",
+    "sell_price": "130",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：Sept ~ Nov",
+      "south_hemi": "S：Mar ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_20_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16956"
+  },
+  {
+    "name": "Bell cricket",
+    "sell_price": "430",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：Sept ~ Oct",
+      "south_hemi": "S：Mar ~ Apr"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_21_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16957"
+  },
+  {
+    "name": "Tiger beetle",
+    "sell_price": "1500",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：Feb ~ Oct",
+      "south_hemi": "S：Jan ~ Apr, Aug ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_44_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16969"
+  },
+  {
+    "name": "Earth-boring dung beetle",
+    "sell_price": "300",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：July ~ Sept",
+      "south_hemi": "S：Jan ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_51_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16973"
+  },
+  {
+    "name": "Ant",
+    "sell_price": "80",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_69_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17053"
+  },
+  {
+    "name": "Tarantula",
+    "sell_price": "8000",
+    "time": "7pm ~ 4am",
+    "seasons": {
+      "north_hemi": "N：Nov ~ Apr",
+      "south_hemi": "S：May ~ Oct"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_79_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16854"
+  },
+  {
+    "name": "Scorpion",
+    "sell_price": "8000",
+    "time": "7pm ~ 4am",
+    "seasons": {
+      "north_hemi": "N：May ~ Oct",
+      "south_hemi": "S：Nov ~ Apr"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_80_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17057"
+  },
+  {
+    "name": "Mantis",
+    "sell_price": "430",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Mar ~ Nov",
+      "south_hemi": "S：Sept ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_22_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17025"
+  },
+  {
+    "name": "Orchid mantis",
+    "sell_price": "2400",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Mar ~ Nov",
+      "south_hemi": "S：Sept ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_23_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16958"
+  },
+  {
+    "name": "Honeybee",
+    "sell_price": "200",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Mar ~ July",
+      "south_hemi": "S：Sept ~ Jan"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_24_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17026"
+  },
+  {
+    "name": "Stinkbug",
+    "sell_price": "120",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：Mar ~ Oct",
+      "south_hemi": "S：Jan ~ Apr, Sept ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_41_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16968"
+  },
+  {
+    "name": "Man-faced stink bug",
+    "sell_price": "1000",
+    "time": "7pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：Mar ~ Oct",
+      "south_hemi": "S：Jan ~ Apr, Sept ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_42_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17034"
+  },
+  {
+    "name": "Ladybug",
+    "sell_price": "200",
+    "time": "8am ~ 5pm",
+    "seasons": {
+      "north_hemi": "N：Mar ~ June, Oct",
+      "south_hemi": "S：Sept ~ Dec, Apr"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_43_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17035"
+  },
+  {
+    "name": "Jewel beetle",
+    "sell_price": "2400",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Aug",
+      "south_hemi": "S：Oct ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_45_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17036"
+  },
+  {
+    "name": "Violin beetle",
+    "sell_price": "450",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：May, June, Sept ~ Nov",
+      "south_hemi": "S：Mar ~ May, Nov ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_46_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16970"
+  },
+  {
+    "name": "Citrus long-horned beetle",
+    "sell_price": "350",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_47_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16971"
+  },
+  {
+    "name": "Rosalia batesi beetle",
+    "sell_price": "3000",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：May ~ Sept",
+      "south_hemi": "S：Dec ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_48_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17037"
+  },
+  {
+    "name": "Pondskater",
+    "sell_price": "130",
+    "time": "8am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：May ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Nov ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_38_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16965"
+  },
+  {
+    "name": "Diving beetle",
+    "sell_price": "800",
+    "time": "8am ~ 7pm",
+    "seasons": {
+      "north_hemi": "N：May ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Nov ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_39_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16966"
+  },
+  {
+    "name": "Giant water bug",
+    "sell_price": "2000",
+    "time": "7pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：Apr ~ Sept",
+      "south_hemi": "S：Jan ~ Mar, Oct ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_40_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16967"
+  },
+  {
+    "name": "Blue weevil beetle",
+    "sell_price": "800",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_49_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17038"
+  },
+  {
+    "name": "Goliath beetle",
+    "sell_price": "8000",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：June ~ Sept",
+      "south_hemi": "S：Dec ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_54_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17041"
+  },
+  {
+    "name": "Cyclommatus stag",
+    "sell_price": "8000",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_59_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17045"
+  },
+  {
+    "name": "Golden stag",
+    "sell_price": "12000",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_60_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17046"
+  },
+  {
+    "name": "Giraffe stag",
+    "sell_price": "12000",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_61_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17047"
+  },
+  {
+    "name": "Horned atlas",
+    "sell_price": "8000",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_63_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17049"
+  },
+  {
+    "name": "Horned elephant",
+    "sell_price": "8000",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_64_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17050"
+  },
+  {
+    "name": "Horned hercules",
+    "sell_price": "12000",
+    "time": "5pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：July ~ Aug",
+      "south_hemi": "S：Jan ~ Feb"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_65_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17051"
+  },
+  {
+    "name": "Moth",
+    "sell_price": "130",
+    "time": "7pm ~ 4am",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_13_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16950"
+  },
+  {
+    "name": "Wasp",
+    "sell_price": "2500",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_25_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16959"
+  },
+  {
+    "name": "Mole cricket",
+    "sell_price": "500",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：Nov ~ May",
+      "south_hemi": "S：May ~ Nov"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_37_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17033"
+  },
+  {
+    "name": "Dung beetle",
+    "sell_price": "3000",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：Dec ~ Feb",
+      "south_hemi": "S：June ~ Aug"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_50_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16972"
+  },
+  {
+    "name": "Walking leaf",
+    "sell_price": "600",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：July ~ Sept",
+      "south_hemi": "S：Jan ~ Mar"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_67_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16975"
+  },
+  {
+    "name": "Bagworm",
+    "sell_price": "600",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_68_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16976"
+  },
+  {
+    "name": "Hermit crab",
+    "sell_price": "1000",
+    "time": "7pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_70_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16977"
+  },
+  {
+    "name": "Wharf roach",
+    "sell_price": "200",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_71_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16978"
+  },
+  {
+    "name": "Flea",
+    "sell_price": "70",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：Apr ~ nov",
+      "south_hemi": "S：Oct ~ May"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_74_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16980"
+  },
+  {
+    "name": "Snail",
+    "sell_price": "250",
+    "time": "All day",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_75_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/17055"
+  },
+  {
+    "name": "Pill bug",
+    "sell_price": "250",
+    "time": "11pm ~ 4pm",
+    "seasons": {
+      "north_hemi": "N：Sept ~ June",
+      "south_hemi": "S：Mar ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_76_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16981"
+  },
+  {
+    "name": "Centipede",
+    "sell_price": "300",
+    "time": "4pm ~ 11am",
+    "seasons": {
+      "north_hemi": "N：Sept ~ June",
+      "south_hemi": "S：Mar ~ Dec"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_77_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16982"
+  },
+  {
+    "name": "Spider",
+    "sell_price": "600",
+    "time": "7pm ~ 8am",
+    "seasons": {
+      "north_hemi": "N：All Year",
+      "south_hemi": "S：All Year"
+    },
+    "icon": "https://gamewith-en.akamaized.net/article_tools/animal-crossing-new-horizons/gacha/musi_78_i.png",
+    "url": "https://gamewith.net/animal-crossing-new-horizons/article/show/16983"
+  }
+]
